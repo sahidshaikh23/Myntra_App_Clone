@@ -1,0 +1,151 @@
+html,body{
+   height: 100%;
+    width: 100%;
+    font-family: Whitney,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica,Arial,sans-serif;
+}
+header{
+   position: fixed;
+   top: 0;
+   background-color: rgb(249, 243, 243);
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+   
+ 
+ }
+header{
+    max-width: 70vw;
+   
+margin: auto;
+}
+.container{
+    max-width: 95vw;  
+      margin:auto;
+      
+      
+}
+ul li {
+   list-style:none;
+   padding: 0 12px;
+   font-weight:bolder;
+}
+nav {
+    list-style:none;
+    padding: 0 21px 0 15px;
+    display:block;
+}
+ 
+ .section1{
+    background: #f1f5ee;
+ 
+    
+ }
+ .search{
+
+width:250px;
+    border: 0.5px solid gray;
+    background: rgb(245, 244, 244);
+    border-radius: 5px;
+    padding: 0 0 0 0;
+
+ }
+ .abc{
+   width: 120%;
+    padding: 0px 0px 0px;
+ }
+   
+ .homeimg {
+   width: 97%;
+   padding: 88px 0px 4px 4px;
+}
+  
+
+ 
+ .logo{
+   width: 35px;
+   width: 35px;
+   
+ }
+ .itemimage{
+   width: 9vw;
+  }
+  .items
+  {
+   width: 8vw;
+  }
+
+  .center {
+   display: block;
+   margin: auto;
+   width: 80%;
+}
+.imgimg{
+   width: 168px;
+padding: 2px 0 0 ;
+}
+.center {
+   display: block;
+  
+   width: 80%;
+}
+.p{
+   padding: 70px 10px 30px 30px ;
+}
+.pp{
+padding: 0px 0px 0px 0%;
+}
+.logo2
+{
+
+   width: 35%;
+}
+.logo3
+{
+   width: 33%;
+}
+.logo4{
+   padding: 0 5px 11% 0 ;
+  
+   width: 30px;
+   
+ }
+ .aa{
+   width: 50%;
+   position: relative;
+    bottom: -143px;
+ }
+ 
+ #symbol
+ {
+   position: relative;
+    top: 19px;
+    left: 24px;
+ }
+ .space{
+   padding:0 0px 0px 26px;
+   height: 51px;
+
+ }
+ .s{
+   position: relative;
+   right: -286px;
+   top: -152px;
+ }
+ .logo5{
+   padding: 0 0 1% 0 ;
+   width: 68px;
+   
+ }
+ .a{
+   position: relative;
+   top: -229px;
+    right: -524px;
+}
+.a1{
+   position: relative;
+   top: -223px;
+    left: 438px;
+}
+.p1{
+   position: relative;
+   top: -310px;
+   right: -524px;
+}
